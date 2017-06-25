@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>panda</folder>
+  <filename>000128.jpg.jpg</filename>
+  <path>/usr/local/panda/000128.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>437</width>
+    <height>292</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>panda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>43</xmin>
+      <ymin>56</ymin>
+      <xmax>367</xmax>
+      <ymax>259</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation verified="no">
+  <folder>panda</folder>
+  <filename>000098.jpg</filename>
+  <path>/home/cwthe2/panda/000098.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>400</width>
+    <height>300</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>panda</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <Difficult>0</Difficult>
+    <bndbox>
+      <xmin>164</xmin>
+      <ymin>77</ymin>
+      <xmax>315</xmax>
+      <ymax>260</ymax>
+    </bndbox>
+  </object>
+</annotation>
